@@ -13,12 +13,18 @@ The analysis is conducted in a Jupyter Notebook using Python, with visualization
 
 ## 📁 Files
 
-- `SpaceX-Notebook.ipynb` – Main analysis notebook
-- Data files (if any) – Add `.csv` or other datasets here if needed
+- `SpaceXLandingPredictionAPIDataCollection.ipynb` – Data Collection From SpaceX API
+- `SpaceXLandingPredictionWebscrapeDataCollection.ipynb` – Data Collection Via Webscraping
+- `SpaceXLandingPredictionDataWrangling.ipynb` – Data Wrangling
+- `SpaceXLandingPredictionEDASQL.ipynb` – EDA With SQL
+- `SpaceXLandingPredictionEDAVisualization.ipynb` – EDA With Data Visualization
+- `SpaceXLandingPredictionFolium.ipynb` – Use Folium To Visualize Launch Sites On Map
+- `spacex-dash-app.py` – Dash Application To Visulaize Launch Data
+- `SpaceXLandingPredictionMLmodels.ipynb` – Predictive Modeling and Comparing Performance Between Decision Tree, SVM, KNN and Logistic Regression
 
 ## 🧪 Technologies Used
 
 - **Python**
 - **Pandas** – Data manipulation
-- **Matplotlib / Seaborn** – Data visualization
+- **Matplotlib / Seaborn/ Folium/ Dash** – Data visualization
 - **Jupyter Notebook** – Interactive analysis environment
